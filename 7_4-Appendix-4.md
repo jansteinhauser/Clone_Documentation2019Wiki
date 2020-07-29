@@ -8,3 +8,5 @@ _By alphabetical order_
 
 ![Appendix 4b](https://user-images.githubusercontent.com/68918893/88808040-ac1a2580-d1b2-11ea-8ee9-757c2a879e4c.png)
 
+![Appendix 4c](https://user-images.githubusercontent.com/68918893/88808191-d66be300-d1b2-11ea-9f03-c804723beb27.png)
+
