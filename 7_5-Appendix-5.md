@@ -70,4 +70,7 @@ _⇒ 9_calc_water_
 
 _⇒ 9_data_water_
 
-Our indicator for water usage (SDG6) is water footprint1. Water footprint (WF) is the volume of water used to produce crops and livestock. In the Calculator, water footprint can be considered volume of water drawn from an annual budget, which is left up to the user to determine. The Calculator does not constrain the total volume of water used. WF is subdivided into three fractions: soil (“green”) water, surface (“blue”) water, and polluted (“grey”) water.
+Our indicator for water usage (SDG6) is water footprint1. Water footprint (WF) is the volume of water used to produce crops and livestock. In the Calculator, water footprint can be considered volume of water drawn from an annual budget, which is left up to the user to determine. The Calculator does not constrain the total volume of water used. WF is subdivided into three fractions: soil (“green”) water, surface (“blue”) water, and polluted (“grey”) 
+water.
+
+![Appendix 5](https://user-images.githubusercontent.com/68918893/88809467-76763c00-d1b4-11ea-9983-64e62db4369b.png)
