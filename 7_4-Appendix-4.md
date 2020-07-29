@@ -10,5 +10,7 @@ _By alphabetical order_
 
 ![Appendix 4c](https://user-images.githubusercontent.com/68918893/88808191-d66be300-d1b2-11ea-9f03-c804723beb27.png)
 
+![Appendix 4d](https://user-images.githubusercontent.com/68918893/88808339-0ca96280-d1b3-11ea-90b7-490c9b8aa7dd.png)
+
 
 
