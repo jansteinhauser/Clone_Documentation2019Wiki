@@ -35,3 +35,5 @@
 [7.2 Appendix 2](https://github.com/FableCalculator/DocumentationWiki/wiki/7_2-Appendix-2)
 
 [7.3 Appendix 3](https://github.com/FableCalculator/DocumentationWiki/wiki/7_3-Appendix-3)
+
+[7.4 Appendix 4](https://github.com/FableCalculator/DocumentationWiki/wiki/7_4-Appendix-4)
