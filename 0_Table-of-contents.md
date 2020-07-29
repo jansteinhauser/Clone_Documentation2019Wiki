@@ -5,3 +5,7 @@
 [3. Calculation Steps](https://github.com/FableCalculator/DocumentationWiki/wiki/3_Calculation-Steps)
 
 > [3.1 Human Demand](https://github.com/FableCalculator/DocumentationWiki/wiki/3_1.-Human-Demand)
+
+> [3.2 Livestock](https://github.com/FableCalculator/DocumentationWiki/wiki/3_2.-Livestock)
+
+> [3.3 Crops](https://github.com/FableCalculator/DocumentationWiki/wiki/3_3.-Crops)
