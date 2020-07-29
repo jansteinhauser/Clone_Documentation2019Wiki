@@ -13,3 +13,5 @@
 > [3.4 Land](https://github.com/FableCalculator/DocumentationWiki/wiki/3.4-Land)
 
 > [3.5 Feasible production, trade, and consumption](https://github.com/FableCalculator/DocumentationWiki/wiki/3_5.-Feasible-production,-trade,-and-consumption)
+
+[4. Results Indicators](https://github.com/FableCalculator/DocumentationWiki/wiki/4_Results-Indicators)
