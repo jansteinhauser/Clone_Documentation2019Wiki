@@ -29,3 +29,5 @@
 [5. Conclusion](https://github.com/FableCalculator/DocumentationWiki/wiki/5_0.-Conclusion)
 
 [6. References](https://github.com/FableCalculator/DocumentationWiki/wiki/6_0.-References)
+
+[7. Appendix 1](https://github.com/FableCalculator/DocumentationWiki/wiki/7_0.-Appendix-1)
