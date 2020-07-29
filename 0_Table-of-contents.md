@@ -19,3 +19,7 @@
 > [4.1 Food](https://github.com/FableCalculator/DocumentationWiki/wiki/4_1.-Food)
 
 > [4.2 Production and trade](https://github.com/FableCalculator/DocumentationWiki/wiki/4_2.-Production-and-trade)
+
+> [4.3 Land](https://github.com/FableCalculator/DocumentationWiki/wiki/4_3.-Land)
+
+> [4.4 GHG](https://github.com/FableCalculator/DocumentationWiki/wiki/4_4.-GHG)
