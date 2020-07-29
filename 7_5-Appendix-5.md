@@ -74,3 +74,9 @@ Our indicator for water usage (SDG6) is water footprint1. Water footprint (WF) i
 water.
 
 ![Appendix 5](https://user-images.githubusercontent.com/68918893/88809467-76763c00-d1b4-11ea-9983-64e62db4369b.png)
+
+## Comparison with GLOBIOM
+
+Release date: 23rd May 2019
+
+This package allows users to compare GLOBIOM results with Calculator’s results either in GAMS or in Excel. It contains 9 changes, grouped in 2 categories: (A) changes to the Calculator to allow the extraction of the main results to GAMS and (B) changes to the Calculator to allow the comparison of GLOBIOM results with the Calculator’s results in the Calculator.
