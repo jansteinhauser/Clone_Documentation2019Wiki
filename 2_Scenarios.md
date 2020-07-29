@@ -9,3 +9,5 @@ We have established a list of parameters that can be changed through the selecti
 
 ![Table 1](https://user-images.githubusercontent.com/68918893/88782978-8549f800-d18e-11ea-92c0-2ddde3166ab9.png)
 
+![Table 2](https://user-images.githubusercontent.com/68918893/88783113-b296a600-d18e-11ea-99dc-0b2a2ad6ce29.png)
+
