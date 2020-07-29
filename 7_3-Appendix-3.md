@@ -14,7 +14,7 @@ Each table is formatted as a table i.e. when you create a new table you have to 
 - the calculation entered in the first row is automatically copied to all the lines of the table in the same column.
 There are several advantages of using this feature. It allows some kind of programming language in the formulas and it is easier to understand the formula when table names are self-explanatory. There is some tradeoff here between the length of a table name and the name being self-explanatory as a long table name will also increase the length of a formula and a long formula is harder to understand.
 
-![Appendix 3b](https://user-images.githubusercontent.com/68918893/88807046-7e80ac80-d1b1-11ea-830a-1cc46b26fda5.png)
+![Appendix 3b](https://user-images.githubusercontent.com/68918893/88807156-a4a64c80-d1b1-11ea-8c25-9831c43e370b.png)
 
 For instance, if you click on the cell AA28 in the worksheet 1_calc_hum_demand you see that the value of this cell is equal to the column "Pop_shift"of the table called "gdp_pop_hist" when the year is lower or equal than 2015, and to the column "pop_shift_2000" from the table GdpPopTarget when the year is higher than 2015 :
 =IF([@year]<=2015,SUMIF(gdp_pop_hist[YEAR],[@year],gdp_pop_hist[POP_shift]),SUMIFS(GdpPopTarget[POP_shift_2000],GdpPopTarget[SCEN],[@[POP_scen]],GdpPopTarget[YEAR],[@year]))
