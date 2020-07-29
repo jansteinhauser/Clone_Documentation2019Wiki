@@ -52,3 +52,5 @@ Afforestation (or reforestation) is exogenously driven in the FABLE Calculator. 
 
 Additional scenarios are available in certain optional features of the Calculator (cf. Appendix 5).
 
+[Next Section: 3 Calculation Steps](https://github.com/FableCalculator/DocumentationWiki/wiki/3_0.-Calculation-Steps)
+
