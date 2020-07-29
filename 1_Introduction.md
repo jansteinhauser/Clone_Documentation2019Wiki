@@ -20,3 +20,5 @@ The FABLE calculator has been used to play the first FABLE Scenathon, a process 
 
 More generally, the FABLE Calculator can be used by anyone who is interested in integrated analyses of food and land-use systems. It is especially suitable for people with no or limited previous experience in modelling.
 
+[Next Section: 2 Scenarios](https://github.com/FableCalculator/DocumentationWiki/wiki/2_Scenarios)
+
