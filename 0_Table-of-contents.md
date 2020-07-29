@@ -17,3 +17,5 @@
 [4. Results Indicators](https://github.com/FableCalculator/DocumentationWiki/wiki/4_Results-Indicators)
 
 > [4.1 Food](https://github.com/FableCalculator/DocumentationWiki/wiki/4_1.-Food)
+
+> [4.2 Production and trade](https://github.com/FableCalculator/DocumentationWiki/wiki/4_2.-Production-and-trade)
