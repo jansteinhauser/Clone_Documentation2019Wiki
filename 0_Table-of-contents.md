@@ -26,4 +26,6 @@
 
 > [4.5 Biodiversity](https://github.com/FableCalculator/DocumentationWiki/wiki/4_5.-Biodiversity)
 
-[5. Conclusions](https://github.com/FableCalculator/DocumentationWiki/wiki/5_0.-Conclusion)
+[5. Conclusion](https://github.com/FableCalculator/DocumentationWiki/wiki/5_0.-Conclusion)
+
+[6. References](https://github.com/FableCalculator/DocumentationWiki/wiki/6_0.-References)
