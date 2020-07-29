@@ -23,3 +23,5 @@
 > [4.3 Land](https://github.com/FableCalculator/DocumentationWiki/wiki/4_3.-Land)
 
 > [4.4 GHG](https://github.com/FableCalculator/DocumentationWiki/wiki/4_4.-GHG)
+
+> [4.5 Biodiversity](https://github.com/FableCalculator/DocumentationWiki/wiki/4_5.-Biodiversity)
