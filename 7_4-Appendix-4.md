@@ -6,3 +6,5 @@ _By alphabetical order_
 
 ![Appendix 4a](https://user-images.githubusercontent.com/68918893/88807869-80973b00-d1b2-11ea-9010-3f77c1c25440.png)
 
+![Appendix 4b](https://user-images.githubusercontent.com/68918893/88808040-ac1a2580-d1b2-11ea-8ee9-757c2a879e4c.png)
+
