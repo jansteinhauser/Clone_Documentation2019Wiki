@@ -33,3 +33,4 @@ The most used formulas in the FABLE Calculator are:
 
 We encourage users who are not yet familiar with these formulas to look at the help within Excel and explanations in several forums and online Excel tutorials.
 
+![Appendix 3c](https://user-images.githubusercontent.com/68918893/88807285-d4555480-d1b1-11ea-8eb0-2a98d1bae209.png)
