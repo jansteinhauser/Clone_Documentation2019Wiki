@@ -5,6 +5,5 @@ The FABLE Calculator has been developed thanks to the financial support from the
 
 Guest book. Below, please leave your name and your favorite hobby:
 
-Katya (walking in nature)
-
-Jan  (gardening)
+Katya (walking in nature),
+Jan (gardening)
